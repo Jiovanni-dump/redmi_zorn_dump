@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.240829.003 OS2.0.109.0.VOKCNXM release-keys
+- manufacturer: xiaomi
+- platform: pineapple
+- codename: zorn
+- flavor: missi-user
+- release: 15
+- id: AQ3A.240829.003
+- incremental: OS2.0.109.0.VOKCNXM
+- tags: release-keys
+- fingerprint: Redmi/zorn/zorn:14/UKQ1.240624.001/OS2.0.109.0.VOKCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-15-AQ3A.240829.003-OS2.0.109.0.VOKCNXM-release-keys
+- repo: redmi_zorn_dump
